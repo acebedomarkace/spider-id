@@ -48,7 +48,8 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     scope = [
         "[RF Engineer](https://markacebedo.netlify.com/)  at [Asticom Tech](http://asticom.com.ph/)",
         "Analytics Lead for [Globe Telecom](http://www.globe.com.ph/) Radio Network Insights",
-        "Technopreneur and [Blogger](https://mackie.netlify.com/)"
+        "Technopreneur and [Blogger](https://mackie.netlify.com/)",
+        "Machine Learning Enthusiast"
       ]
     biography = """Ace Mark is plain awesome. He loves making sense out of data and is open for new, collaborative data science work.  
 Proficient in R, Tableau, QGIS and MS Excel. Brings in 14+ years of Telco industry experience as data solutions architect"""
