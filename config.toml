@@ -46,12 +46,12 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     position = "Data Science Pro"
     livesIn = "[Makati, Philippines](#some-maps-url)"
     scope = [
-        "RF Engineer at [Asticom Tech](#)",
-        "Analytics Lead for [Network Insights](#)",
-        "Blogger for [Life and Technology](#)"
+        "[RF Engineer](https://markacebedo.netlify.com/)  at [Asticom Tech](http://asticom.com.ph/)",
+        "Analytics Lead for [Globe Telecom](http://www.globe.com.ph/) Radio Network Insights",
+        "Technopreneur and [Blogger](https://mackie.netlify.com/)"
       ]
-    biography = """Ace Mark is plain awesome. He is on a Globe Telecom project and is open for new data science work.  
-Even new lines and other markdown styles are working within the bio."""
+    biography = """Ace Mark is plain awesome. He loves making sense out of data and is open for new, collaborative data science work.  
+Proficient in R, Tableau, QGIS and MS Excel. Brings in 14+ years of Telco industry experience as data solutions architect"""
 
   # Contact form settings
 
@@ -110,16 +110,16 @@ Even new lines and other markdown styles are working within the bio."""
     target = "_blank"
 
   [[params.social]]
-    title = "Instagram"
-    icon = "fa-instagram"
-    link = "#"
+    title = "Linkedin"
+    icon = "fa-linkedin"
+    link = "www.linkedin.com/in/markacebedo"
     target = "_blank"
 
-  [[params.social]]
-    title = "Facebook"
-    icon = "fa-facebook"
-    link = "#"
-    target = "_blank"
+  #[[params.social]]
+  #  title = "Facebook"
+  #  icon = "fa-facebook"
+  #  link = "#"
+  #  target = "_blank"
 
   # Footer settings
   [params.footer]
