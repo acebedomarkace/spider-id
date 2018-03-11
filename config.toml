@@ -107,13 +107,13 @@ Proficient in R, Tableau, QGIS and MS Excel. Brings in 14+ years of Telco indust
     title = "Twitter"
     icon = "fa-twitter"
     link = "https://twitter.com/AcebedoMark"
-    target = ""
+    target = "_blank"
 
   [[params.social]]
     title = "Linkedin"
     icon = "fa-linkedin"
-    link = "www.linkedin.com/in/markacebedo"
-    target = ""
+    link = "https://www.linkedin.com/in/markacebedo"
+    target = "_blank"
 
   #[[params.social]]
   #  title = "Facebook"
