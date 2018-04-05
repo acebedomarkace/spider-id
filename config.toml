@@ -43,8 +43,8 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     name = "Ace Mark"
     # Avatars can be written to images/avatars/
     avatar = "ace.jpg"
-    position = "Data Science Pro"
-    livesIn = "[Makati, Philippines](#some-maps-url)"
+    position = "Data Science Pro, [CV](https://cvmarkace.netlify.com)"
+    livesIn = "Makati, Philippines"
     scope = [
         "[RF Engineer](https://markacademic.netlify.com/)  at [Asticom Tech](http://asticom.com.ph/)",
         "Analytics Lead for [Globe Telecom](http://www.globe.com.ph/) Radio Network Insights",
